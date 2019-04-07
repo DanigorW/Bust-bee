@@ -1,0 +1,11 @@
+@keyframes beeMove {
+  0% {
+    opacity: 0;
+    transform: translateX(1000px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translate(0);
+  }
+}
